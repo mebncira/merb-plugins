@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Update H1 in Explorer API docs (#7813)

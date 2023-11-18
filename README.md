@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)

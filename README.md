@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)

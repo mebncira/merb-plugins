@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Elaborate Train and Predict mode docs arguments (#8137)

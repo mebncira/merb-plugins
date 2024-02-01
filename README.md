@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+docs: update view-results-in-terminal.md (#66)

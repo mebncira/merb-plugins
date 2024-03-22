@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+ultralytics 8.1.20 add YOLOv8x-World support (#8539)

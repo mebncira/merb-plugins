@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Remove unused variables (#8511)
